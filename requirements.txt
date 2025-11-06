@@ -2,8 +2,10 @@ streamlit==1.39.0
 pandas
 python-dotenv
 langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
 langchain-openai>=0.1.7
-langchain-chroma>=0.1.2
 chromadb>=0.5.3
 pypdf
 tiktoken
